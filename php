@@ -1,0 +1,10 @@
+
+[37;41m                                                                            [39;49m
+[37;41m  Too many arguments to "cache:clear" command, expected arguments "store".  [39;49m
+[37;41m                                                                            [39;49m
+
+
+[37;41m                                                                            [39;49m
+[37;41m  Too many arguments to "cache:clear" command, expected arguments "store".  [39;49m
+[37;41m                                                                            [39;49m
+
